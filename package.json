@@ -1,13 +1,17 @@
 {
   "name": "symbolic-operation",
   "version": "1.0.0",
-  "description": "A library that utilizes symbolic computations to return results.",
+  "description": "A collection of utility functions implemented using bitwise operations for optimized performance.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lainbo/symbolic-operation.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
-  "author": "",
+  "author": "lainbo",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.16.3",

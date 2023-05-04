@@ -1,4 +1,5 @@
 # 符号运算工具库
+[![GitHub](https://img.shields.io/badge/github-repo-green?style=flat&logo=github)](https://github.com/lainbo/symbolic-operation)
 
 一个包含多个基于位运算的高性能实用函数的集合。
 

@@ -1,4 +1,5 @@
 # Symbolic Operation
+[![GitHub](https://img.shields.io/badge/github-repo-green?style=flat&logo=github)](https://github.com/lainbo/symbolic-operation)
 English | [简体中文](./README.zh-CN.md)
 
 A collection of utility functions implemented using bitwise operations for optimized performance.
