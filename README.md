@@ -36,7 +36,7 @@ npm install symbolic-operation
 To use the functions in this library, import them into your project:
 
 ```javascript
-import { round, isOdd } from 'bitwise-utilities';
+import { round, isOdd } from 'symbolic-operation';
 
 console.log(round(4.7)); // Output: 5
 console.log(isOdd(3));   // Output: true
