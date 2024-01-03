@@ -26,7 +26,7 @@ A collection of utility functions implemented using bitwise operations for optim
 
 ## Installation
 
-To install this library, run:
+To install this library:
 ```sh
 npm install symbolic-operation
 ```

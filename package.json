@@ -1,6 +1,6 @@
 {
   "name": "symbolic-operation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of utility functions implemented using bitwise operations for optimized performance.",
   "repository": {
     "type": "git",

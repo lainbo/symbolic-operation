@@ -25,7 +25,7 @@
 
 ## 安装
 
-要安装此库，请运行：
+安装此库：
 ```sh
 npm install symbolic-operation
 ```
